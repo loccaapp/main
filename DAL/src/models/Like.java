@@ -3,7 +3,7 @@ package models;
 import java.sql.Timestamp;
 
 public class Like {
-	//comment for first checkout
+	//comment for first checkout222
 	public int post_id;
 	public int effecter_user_id;
 	public int user_id;
